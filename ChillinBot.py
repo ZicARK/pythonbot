@@ -32,4 +32,4 @@ async def on_message(message):
         await client.send_message(message.channel,'Chillin owner is Silver ( ID : S_ily ) Chillin is not like the other tribes , In Chillin we dont have the slaving system and members get admin if we trust them and that what make us special !! ')
     if message.content.startswith('~Help'):
         await client.send_message(message.channel,'Hi cutie <@%s> Please try my commands "~Chillininfo" , "~whomadeyou" , "~Chillininfo"'  %(message.author.id))
-client.run('NjkwMTkzMjQwOTE3NTQxMDMx.XsjOAA.HebAbSi6h0yeaa0ZBUOAp63LXHU')
+client.run('NjkwMTkzMjQwOTE3NTQxMDMx.XsjSSg.dt84msUfcBILOoLmW4GGNY9EJd0')
